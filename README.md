@@ -12,4 +12,5 @@ Continue entering your passwords to receive a rating, or exit out of the GUI win
 
 Project Scope - The scope of the project was to learn Python - this is an updated version of my original project linked here -
 https://github.com/KellyLindsayCodes/password-strength-checker -
-In this project I have tried to practice and implement def functions to remove the need for alphabet lists. I have also put in a GUI to show the use of an import. 
+The purpose of this project was to practice def functions, which I have used to remove the lists I made in the previous version. 
+I have also added in a tkinter GUI to illustrate the user of an import. 
