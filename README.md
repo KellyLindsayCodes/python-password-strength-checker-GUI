@@ -62,4 +62,4 @@ Inspired by real-world password security concerns and the importance of strong c
 
 ##  📝 License
 This project is open for learning and personal portfolio use.
-Developed by Kelly Lindsay – Cybersecurity Student
+Developed by Kelly Lindsay – Cybersecurity Student.
