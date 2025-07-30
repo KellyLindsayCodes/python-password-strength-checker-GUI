@@ -41,10 +41,12 @@ Password Strength Checker Flow:
 4. Display a rating: Weak / Moderate / Strong
 
 ## 📸 Screenshots
-CLI Terminal Interface
+### CLI Terminal Interface
+
 <img width="969" height="173" alt="image" src="https://github.com/user-attachments/assets/c4dcb851-c25b-48b8-839a-1a41ecc46e8d" />
 
-Tkinter GUI
+### Tkinter GUI
+
 <img width="393" height="427" alt="image" src="https://github.com/user-attachments/assets/bcece3f9-d6b3-4b6c-92be-5e338f7ce5d8" />
 
 ## 🔮 Future Enhancements
